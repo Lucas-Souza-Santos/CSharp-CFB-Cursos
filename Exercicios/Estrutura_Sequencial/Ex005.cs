@@ -6,7 +6,8 @@ class Exercicios
     static void Main()
     {   
         // Pedindo pro usuário digitar o metro e pegando o valor e armazenando na variavel metro
-        Console.Write("Informe o metro para ser convertido: ");
+        Console.Write("Informe o metro para ser convertido: ".ToUpper());
+
         float metro = float.Parse(Console.ReadLine());
 
         float centimetro = (metro * 100);
