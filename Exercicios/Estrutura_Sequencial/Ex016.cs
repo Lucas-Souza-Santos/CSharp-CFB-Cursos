@@ -13,7 +13,7 @@ namespace Estrutura_Sequencial
             Console.Write("Área da parede: ");
             double area = double.Parse(Console.ReadLine());
 
-            double num_lata = Math.Ceiling(area / 18);
+            double num_lata = Math.Ceiling(area / 54);
 
             double custo = num_lata * 80;
 
