@@ -1,0 +1,16 @@
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.exe
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.deps.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.runtimeconfig.dev.json
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\ref\Aula31.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\bin\Debug\net5.0\Aula31.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.csprojAssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\ref\Aula31.dll
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.pdb
+C:\Users\Notebook\OneDrive\Documentos\GitHub\CFB-Cursos\CSharp-CFB-Cursos\Intermediario\Aula31\obj\Debug\net5.0\Aula31.genruntimeconfig.cache
